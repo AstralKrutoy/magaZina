@@ -1,7 +1,7 @@
 <script>
 	import Header from '$lib/comps/Header.svelte';
 	import CategoryItem from '$lib/comps/CategoryItem.svelte';
-	import { category } from '../../lib/db.js';
+	import { category } from '../../lib/db';
 </script>
 
 <Header />
