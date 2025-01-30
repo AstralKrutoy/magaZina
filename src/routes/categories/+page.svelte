@@ -58,7 +58,7 @@
 <Header />
 
 <main class="container">
-	<h2 class="mb-1 ml-3 mt-4 text-xl">Категорії</h2>
+	<h2 class="mb-1 text-xl">Категорії</h2>
 	<div class="grid grid-cols-4 gap-6">
 		{#each category as categ}
 			<CategoryItem name={categ.name} image={categ.img} />
