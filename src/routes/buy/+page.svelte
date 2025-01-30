@@ -7,9 +7,9 @@
 </script>
 
 <Header />
-<main class="container">
-	<h2 class="mb-1 mt-4 text-xl">Кошик</h2>
-	<div class="mb-4 flex justify-end">
+<main class="container mt-10">
+	<div class="mb-4 flex items-center justify-between">
+		<h2 class="mb-1 mt-4 text-xl">Кошик</h2>
 		<button class="bg bg-slate-300 p-2 px-6 font-bold hover:bg-slate-400"
 			>Оформити замовлення</button
 		>
